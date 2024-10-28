@@ -21,15 +21,15 @@ Tujuan dari analisis Data Pelanggan Supermarket ini adalah untuk menjawab Pernya
 dapat menarik kesimpulan lalu memberikan Rekomendasi/Actionable Insight kepada para Stakeholder untuk mengambil keputusan bisnis.
 
 ## Stakeholder
-* 1. Manajemen Senior: CEO, COO, dan CFO yang membuat keputusan strategis dan keuangan. 
-* 2. Manajer Pemasaran: Bertanggung jawab atas strategi pemasaran dan kampanye promosi.
-* 3. Tim Penjualan: Mereka yang mengimplementasikan strategi penjualan dan memerlukan data untuk menyusun strategi lapangan. 
-* 4. Manajer Produk/Kategori: Fokus pada performa produk spesifik dan kategori produk. 
-* 5. Tim Supply Chain: Agar bisa mengatur persediaan berdasarkan data penjualan. 
-* 6. Tim Operasional Toko: Manajer toko dan area yang perlu mengetahui bagaimana kampanye mempengaruhi penjualan di toko mereka. 
-* 7. Tim Customer Insights: Analis yang mengkaji perilaku konsumen dan tren pembelian. 
-* 8. Tim IT dan Data: Mendukung infrastruktur teknis dan sistem data. 
-* 9. Tim Data Science: Menganalisa kinerja penjualan berdasarkan data.
-* 10. Pihak Ketiga: Vendor atau mitra yang mungkin terlibat dalam kampanye promosi.
+1. Manajemen Senior: CEO, COO, dan CFO yang membuat keputusan strategis dan keuangan. 
+2. Manajer Pemasaran: Bertanggung jawab atas strategi pemasaran dan kampanye promosi.
+3. Tim Penjualan: Mereka yang mengimplementasikan strategi penjualan dan memerlukan data untuk menyusun strategi lapangan. 
+4. Manajer Produk/Kategori: Fokus pada performa produk spesifik dan kategori produk. 
+5. Tim Supply Chain: Agar bisa mengatur persediaan berdasarkan data penjualan. 
+6. Tim Operasional Toko: Manajer toko dan area yang perlu mengetahui bagaimana kampanye mempengaruhi penjualan di toko mereka. 
+7. Tim Customer Insights: Analis yang mengkaji perilaku konsumen dan tren pembelian. 
+8. Tim IT dan Data: Mendukung infrastruktur teknis dan sistem data. 
+9. Tim Data Science: Menganalisa kinerja penjualan berdasarkan data.
+10. Pihak Ketiga: Vendor atau mitra yang mungkin terlibat dalam kampanye promosi.
 
     
