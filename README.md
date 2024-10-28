@@ -32,7 +32,8 @@ dapat menarik kesimpulan lalu memberikan Rekomendasi/Actionable Insight kepada p
 9. Tim Data Science: Menganalisa kinerja penjualan berdasarkan data.
 10. Pihak Ketiga: Vendor atau mitra yang mungkin terlibat dalam kampanye promosi.
 
-# Link Dataset
-Untuk menjawab semua pernyataan masalah di atas, kita akan menganalisa data customer yang sudah dikumpulkan oleh Supermarket. Dataset dapat diakses [di sini](https://drive.google.com/drive/folders/1WodnBbuYTvsF0-6HTuQABQ0KCS31lqbK). 
+# Link 
+Dataset: [di sini](https://drive.google.com/drive/folders/1WodnBbuYTvsF0-6HTuQABQ0KCS31lqbK). 
+
 
     
