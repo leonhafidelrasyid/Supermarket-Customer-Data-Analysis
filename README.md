@@ -14,7 +14,7 @@ Dari latar belakang diatas maka dirumuskan masalah sebagai berikut :
 6. Apakah Campaign yang dilakukan Supermarket diterima dengan baik oleh Customer?
 7. Apakah Diskon mempengaruhi jumlah pembelian?
 8. Apakah persentase complain tinggi?
-9. Segmentasi Customer dengan menggunakan metode RFM Analysis
+9. Menggunakan metode RFM Analysis untuk Segmentasi Customer
 
 ## Tujuan Analisis
 Tujuan dari analisis Data Pelanggan Supermarket ini adalah untuk menjawab Pernyataan Masalah yang telah dijabarkan dan dari jawaban tersebut
