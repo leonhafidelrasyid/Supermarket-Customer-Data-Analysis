@@ -9,12 +9,12 @@ Dari latar belakang diatas maka dirumuskan masalah sebagai berikut :
 1. Apakah Birth Year/Generation , Marital Status, Education dan Income Customer mempengaruhi kategori produk yang dibeli?
 2. Apakah Birth Year/Generation , Marital Status, Education dan Income Customer mempengaruhi banyaknya produk yang dibeli?
 3. Diantara Store, Web, dan Catalogue dimanakah customer lebih sering melakukan transaksi ? 
-4. Kategori Produk dengan penjualan tertinggi?
-5. Kategori Produk apa yang paling disukai?
+4. Apa Kategori Produk dengan penjualan tertinggi?
+5. Apa Kategori Produk yang paling disukai?
 6. Apakah Campaign yang dilakukan Supermarket diterima dengan baik oleh Customer?
 7. Apakah Diskon mempengaruhi jumlah pembelian?
 8. Apakah persentase complain tinggi?
-9. Menggunakan metode RFM Analysis untuk Segmentasi Customer
+9. Apa Saja Tipe Customer di Supermarket (Identifikasi Menggunakan RFM Analysis)
 
 ## Tujuan Analisis
 Tujuan dari analisis Data Pelanggan Supermarket ini adalah untuk menjawab Pernyataan Masalah yang telah dijabarkan dan dari jawaban tersebut
