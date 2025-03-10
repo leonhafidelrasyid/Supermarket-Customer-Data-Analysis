@@ -1,4 +1,4 @@
-# Supermarket Customer Data Analysis
+# Data-Driven Customer Insights to Boost Supermarket Sales & Customer Retention 
 ## Latar Belakang
 Sebuah Supermarket ingin menganalisis performa bisnis mereka dan meningkatkan penjualan. Untuk mencapai tujuan ini, Supermarket tersebut meminta bantuan seorang Data Analyst untuk memahami performa bisnis mereka dan menemukan insight yang dapat ditindaklanjuti(Actionable Insight) yang dapat meningkatkan performa bisnis dari segi penjualan, yang pada akhirnya akan meningkatkan profit.
 
